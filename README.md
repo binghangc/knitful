@@ -1,2 +1,2 @@
 # knitful
-CVWO project for NUS
+Bing Hang's project for CVWO 
